@@ -1,0 +1,3 @@
+﻿  main.cpp
+エンジン(ENJIN).lib(EngineCore.obj) : error LNK2019: unresolved external symbol _glfwInit referenced in function "void __cdecl EngineCore::helloworld(void)" (?helloworld@EngineCore@@YAXXZ)
+Z:\エンジン(ENJIN)\Debug\Game.exe : fatal error LNK1120: 1 unresolved externals
